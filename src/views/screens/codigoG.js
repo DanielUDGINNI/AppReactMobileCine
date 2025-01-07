@@ -33,7 +33,7 @@ const CodigoG = ({ navigation }) => {
 
   const limpiarCarrito = async () => {
     await axios.get(
-      'https://pro-gramacionvr.000webhostapp.com/limpiaCarro.php'
+      'limpiaCarro.php'
     );
     console.log(result);
 
@@ -45,7 +45,7 @@ const CodigoG = ({ navigation }) => {
     };
     xhttp.open(
       'GET',
-      'https://pro-gramacionvr.000webhostapp.com/insertarcompra2.php?&codigo=' +
+      'insertarcompra2.php?&codigo=' +
         result,
       true
     );
