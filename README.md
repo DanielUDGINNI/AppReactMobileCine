@@ -7,8 +7,8 @@ The app presents an idea aimed at solving a problem identified in the past, rela
   <img src="Running/Home.PNG" width="200" height="400" />
 <div>
 <div>
-  <img src="Running/Product.PNG" width="250" height="500" />
-  <img src="Running/Info.PNG" width="250" height="500" />
+  <img src="Running/Product.PNG" width="300" height="500" />
+  <img src="Running/Info.PNG" width="300" height="500" />
 <div>
 
 
